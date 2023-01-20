@@ -1,12 +1,10 @@
 ---
 title: Hello, World!
 author: Conless
-# date: 2023-01-19 22:56
+date: 2023-01-19 22:56
 ---
 
-haha
-
-<!-- 欢迎来到 [Conless 的新博客](https://conless.life)！本博客使用 [Hexo](https://hexo.io) 搭建，采用了 [Shoka](https://shoka.lostyu.me/) 主题，希望大家喜欢。
+欢迎来到 [Conless 的新博客](https://conless.life)！本博客使用 [Hexo](https://hexo.io) 搭建，采用了 [Shoka](https://shoka.lostyu.me/) 主题，希望大家喜欢。
 
 ## 搭建过程
 
@@ -70,4 +68,4 @@ upd on 23/01/19
 21/02/06：博客停止更新
 20/09/04：Luogu 博客开始进行同步更新
 19/08/13：将博客迁移到了 cnblogs
-16/12/02：在 csdn 建立了第一个博客 -->
+16/12/02：在 csdn 建立了第一个博客
