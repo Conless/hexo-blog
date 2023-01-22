@@ -4,7 +4,7 @@ author: Conless
 date: 2023-01-19 22:56
 ---
 
-欢迎来到 [Conless 的新博客](https://conless.life)！本博客使用 [Hexo](https://hexo.io) 搭建，采用了 [Shoka](https://shoka.lostyu.me/) 主题，希望大家喜欢。
+欢迎来到 [Conless 的新博客](https://conless.dev)！本博客使用 [Hexo](https://hexo.io) 搭建，采用了 [Shoka](https://shoka.lostyu.me/) 主题，希望大家喜欢。
 
 ## 搭建过程
 

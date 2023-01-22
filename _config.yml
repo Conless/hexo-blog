@@ -13,7 +13,7 @@ timezone: "Asia/Shanghai"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://conless.github.io
+url: https://conless.github.io/blog
 permalink: /:year/:month/:title
 permalink_defaults:
 pretty_urls:
@@ -103,6 +103,7 @@ theme: shoka
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Conless/conless.github.io.git
-  branch: main
-
+  repo: 
+    github: git@github.com:Conless/blog.git
+    gitee: git@gitee.com:Conless/conless.git
+  branch: master

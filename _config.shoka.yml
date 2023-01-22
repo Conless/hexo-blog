@@ -1,7 +1,7 @@
 # 基础设置
-alternate: Conless 的博客
-auto_scroll: true
-darkmode: true
+alternate:
+auto_scroll: false
+darkmode: false
 loader:
   start: true
   switch: false

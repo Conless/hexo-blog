@@ -1,7 +1,7 @@
 ---
 title: 尘埃落定
-# author: Conless
-# cover: https://conless-imagehost.oss-cn-hangzhou.aliyuncs.com/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220705232021.jpg
+author: Conless
+cover: https://conless-imagehost.oss-cn-hangzhou.aliyuncs.com/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220705232021.jpg
 date: 2022-07-05 23:19:14
 ---
 ![](https://conless-imagehost.oss-cn-hangzhou.aliyuncs.com/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220705232021.jpg)
