@@ -1,5 +1,7 @@
 # language
-zh-CN:
-  home: 博客
 en:
-  home: Blog
+  favicon:
+    show: (●´3｀●) Nice to meet you again
+    hide: (´Д｀) See you later
+  menu:
+    home: Blog

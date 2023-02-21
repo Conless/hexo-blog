@@ -2,6 +2,8 @@
 title: Hello, World!
 author: Conless
 date: 2023-01-19 22:56
+categories:
+- [Computer Science]
 ---
 
 欢迎来到 [Conless 的新博客](https://conless.dev)！本博客使用 [Hexo](https://hexo.io) 搭建，采用了 [Shoka](https://shoka.lostyu.me/) 主题，希望大家喜欢。
@@ -47,25 +49,3 @@ hexo g -d
 ```cpp
 // TODO
 ```
-
-## Blog 更新日志与计划
-
-### TODO
-
-upd on 23/01/19
-1. 博文和图片的迁移
-2. 完善前端配置
-3. 补笔记
-
-### 日志
-
-23/01/19：将博客迁移到了 GitHub Pages，并通过 Hexo + Shoka 进行配置
-23/12/24：停止 wpbox 续费
-22/12/10：因为 wpbox 托管更换域名，博客访问中断
-22/09/03：将博客内容备份在了微信公众号
-22/06/12：更新了 wordpress 主题
-22/01/24：将博客迁移到了 wpbox 进行 wordpress 托管
-21/02/06：博客停止更新
-20/09/04：Luogu 博客开始进行同步更新
-19/08/13：将博客迁移到了 cnblogs
-16/12/02：在 csdn 建立了第一个博客

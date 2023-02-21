@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ""
-description: ""
+title: 夢の日記
+subtitle: Conless 的梦境日志
+description: Stay hungry. Stay foolish.
 keywords:
 author: Conless Pan
 language: en
@@ -13,8 +13,8 @@ timezone: "Asia/Shanghai"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://conless.github.io/blog
-permalink: /:year/:month/:title
+url: https://conless.dev/blog
+permalink: /:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -68,6 +68,12 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  Computer Science: cs
+  Math: math
+  Travel Notes: travel
+  Jottings: jotting
+  Uncategorized: default
+  Data Structure (CS1951@SJTU): data-structure
 tag_map:
 
 # Metadata elements

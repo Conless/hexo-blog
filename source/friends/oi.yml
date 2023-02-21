@@ -1,0 +1,18 @@
+- site: zhendelan
+  owner: zhendelan
+  url: https://www.cnblogs.com/zhendelan/
+  image: https://cdn.luogu.com.cn/upload/usericon/13197.png
+  color: red
+
+- site: wlr 的菜鸡博客
+  owner: lrw04
+  url: https://blog.lrw04.online/
+  image: https://cdn.luogu.com.cn/upload/usericon/203513.png
+  color: black
+
+- site: MCAdam 的博客
+  owner: MCAdam
+  url: https://www.luogu.com.cn/blog/MCAdam/
+  image: https://cdn.luogu.com.cn/upload/usericon/81238.png
+  color: blue
+  

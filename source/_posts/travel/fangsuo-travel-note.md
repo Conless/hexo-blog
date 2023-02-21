@@ -2,6 +2,8 @@
 title: 重逢方所 (images to be fixed)
 date: 2022-07-20 10:52:19
 tags:
+categories:
+- [Travel Notes]
 ---
 
 好久不见 我的图书初恋📖

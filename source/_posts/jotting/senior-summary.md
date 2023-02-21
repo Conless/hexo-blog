@@ -3,6 +3,8 @@ title: 高中总结（一）
 author: Conless
 date: 2022-06-15 14:03:43
 cover: https://pic1.zhimg.com/80/v2-60d1a49e9f70c3a31e9ab191cd523926_720w.jpeg
+categories:
+- [Jottings]
 ---
 > 过往岁月最后的存留地，便是它的精粹，让我们在泪水流干之后，又重新潸然泪下。
 ——普鲁斯特《追忆似水年华》

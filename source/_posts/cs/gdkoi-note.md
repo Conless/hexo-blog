@@ -1,7 +1,9 @@
 ---
 title: GDKOI2021 游记
 date: 2021-01-20 11:25:43
-tags:
+categories:
+- [Computer Science]
+
 ---
 ## Day -1
 从学农回来了，已经快两个月没碰过信息学了。。

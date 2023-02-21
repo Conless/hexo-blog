@@ -1,5 +1,5 @@
 # 基础设置
-alternate:
+alternate: Dream Journal
 auto_scroll: false
 darkmode: false
 loader:
@@ -22,8 +22,9 @@ menu:
     archives: /archives/ || list-alt
     categories: /categories/ || th
     tags: /tags/ || tags
-  # friends: /friends/ || heart
-  # links: /links/ || magic
+  friends:
+    friends: /friends/ || heart
+    links: /links/ || magic
 
 social:
   github: https://github.com/Conless || github || "#191717"
@@ -190,3 +191,7 @@ minify:
 autoprefixer:
   exclude:
     - '*.min.css'
+highlight:
+  enable: false
+prismjs:
+  enable: false

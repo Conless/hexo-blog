@@ -2,6 +2,8 @@
 title: 九寨沟游记 (images to be fixed)
 date: 2022-07-10 10:44:59
 tags:
+categories:
+- [Travel Notes]
 ---
 ![](https://www.conless.dev/wp-content/uploads/2022/07/mmexport1657359123946.jpg)
 
