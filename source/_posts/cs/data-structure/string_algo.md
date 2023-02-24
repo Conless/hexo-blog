@@ -104,9 +104,10 @@ void build() {
         for (int i = 0; i < 26; i++) {
             if (tr[u][i]) { // 子节点存在，让 fail 指针指向父节点（拓扑序保证父节点 fail 指针的最优性）
                 fail[tr[u][i]] = tr[fail[u]][i];
-                q.push(tr[u][i]);
-            } else // 子节点不存在，直接跳转
+                q.push(tr[i][i]);
+            } else { // 子节点不存在，直接跳转
                 tr[u][i] = tr[fail[u]][i];
+            }
         }
     }
 }
