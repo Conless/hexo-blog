@@ -2,6 +2,7 @@
 title: 数据结构（四）：树链剖分 (updating)
 author: Conless
 date: 2023-01-27 14:03:43
+math: true
 categories:
 - [Computer Science]
 ---

@@ -1,6 +1,7 @@
 ---
 title: GDKOI2021 游记
 date: 2021-01-20 11:25:43
+math: true
 categories:
 - [Computer Science]
 
